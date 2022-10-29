@@ -9,13 +9,13 @@ So, the equation of Gabor filter is as follow
  
 ![GaborFilterEquation](https://user-images.githubusercontent.com/92668089/198814967-adcb551b-5208-41df-8ee5-51d093cc91b1.png)
 
-Gabor filter is a linear filter applied for surface texture detection. It is used to examine distributed frequency in specific region of image based 
+Gabor filter is a linear filter applied for surface texture detection. It is used to examine distributed frequency in specific region of image 
 based on Gaussian filter with sigma 3 and 7.
 
 
 
 Result: The result showed a successful segmentation of simulated images
 
-{Note: Its recommended to play with different values of gabor filters parameter in order to optimize the precise succesfful segmentation of your own images}
+{Note: It's recommended to alter different values of gabor filters parameter in order to optimize the precise edge segmentation of your images}
 
 @author: Dinesh Kumar Gupta
