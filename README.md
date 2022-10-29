@@ -2,7 +2,8 @@
 applying random forest classifiers and Gabor filters
 
 Automated segmentation of simulated image was created to well define the edge detection of an object in
-the artificially created images. The equation of Gabor filter is as follow 
+the artificially created images. The methods used are Gabor filter, random forest classifiers , Edge canny detection, gaussian filter, median filter.
+So, the equation of Gabor filter is as follow 
 
 
  
@@ -13,6 +14,8 @@ based on Gaussian filter with sigma 3 and 7.
 
 
 
+Result: The result showed a successful segmentation of simulated images
 
+{Note: Its recommended to play with different values of gabor filters parameter in order to optimize the precise succesfful segmentation of your own images}
 
 @author: Dinesh Kumar Gupta
