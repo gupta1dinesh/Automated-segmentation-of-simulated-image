@@ -18,4 +18,6 @@ Result: The result showed a successful segmentation of simulated images
 
 {Note: It's recommended to alter different values of gabor filters parameter in order to optimize the precise edge segmentation of your images}
 
+Thank You!!!
+
 @author: Dinesh Kumar Gupta
